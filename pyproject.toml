@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "bundeswahlleiter-mcp"
+version = "0.1.0"
+description = "Unofficial read-only MCP server for the Bundeswahlleiterin — Bundestag election results 2017-2025"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = [
+    "mcp<2",
+    "httpx>=0.27",
+]
+authors = [{ name = "Mohammad Abbasi" }]
+
+[project.scripts]
+bundeswahlleiter-mcp = "bundeswahlleiter_mcp.server:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/bundeswahlleiter_mcp"]
+
+[tool.pytest.ini_options]
+markers = ["live: tests that hit the real https://www.bundeswahlleiterin.de site"]
