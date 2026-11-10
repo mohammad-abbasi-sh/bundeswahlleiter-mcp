@@ -1,0 +1,309 @@
+(c) Die Bundeswahlleiterin, Wiesbaden 2024;;;;;;;;;;;;;;;;
+Datenlizenz Deutschland – Namensnennung – Version 2.0 (https://www.govdata.de/dl-de/by-2-0);;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+Ergebnisse nach Wahlkreisen;;;;;;;;;;;;;;;;
+Status:;Endgültig;;;;;;;;;;;;;;;
+Stand:;23.02.2024;13:52;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+Format: CSV. Trennzeichen: Semikolon. Zeichensatz: UTF-8 mit BOM;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;
+Wahlart;Wahltag;Gebietsart;Gebietsnummer;Gebietsname;UegGebietsart;UegGebietsnummer;Gruppenart;Gruppenname;Gruppenreihenfolge;Stimme;Anzahl;Prozent;VorpAnzahl;VorpProzent;DiffProzent;DiffProzentPkt;Bemerkung
+BT;26.09.2021;Bund;99;Bundesgebiet;;;System-Gruppe;Wahlberechtigte;-4;;61172771;;61688485;;-0,835997;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;System-Gruppe;Wählende;-3;;46707343;76,353159;46976341;76,150907;-0,572624;0,202252;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;System-Gruppe;Ungültige;-2;1;488483;1,045838;586726;1,248982;-16,744272;-0,203144;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;System-Gruppe;Ungültige;-2;2;408956;0,875571;460849;0,981024;-11,260304;-0,105453;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;System-Gruppe;Gültige;-1;1;46218860;98,954162;46389615;98,751018;-0,368089;0,203144;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;System-Gruppe;Gültige;-1;2;46298387;99,124429;46515492;99,018976;-0,466737;0,105453;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;CDU;1;1;10445920;22,60099;14030751;30,245457;-25,549816;-7,644467;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;CDU;1;2;8774920;18,952971;12447656;26,760237;-29,505443;-7,807266;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;SPD;2;1;12184096;26,361741;11429231;24,637478;6,604688;1,724263;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;SPD;2;2;11901558;25,706204;9539381;20,507965;24,762372;5,198239;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;AfD;3;1;4699926;10,168849;5317499;11,462693;-11,613975;-1,293844;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;AfD;3;2;4809233;10,387474;5878115;12,636897;-18,184095;-2,249423;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;FDP;4;1;4019565;8,696807;3249238;7,004236;23,707928;1,692571;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;FDP;4;2;5291013;11,428072;4999449;10,747922;5,831923;0,68015;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;DIE LINKE;5;1;2286070;4,946184;3966637;8,5507;-42,367552;-3,604516;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;DIE LINKE;5;2;2255864;4,872446;4297270;9,238363;-47,504718;-4,365917;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;GRÜNE;6;1;6435380;13,92371;3717922;8,014557;73,090775;5,909153;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;GRÜNE;6;2;6814408;14,718457;4158400;8,939817;63,870912;5,778639;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;CSU;7;1;2788048;6,032273;3255487;7,017706;-14,358497;-0,985433;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;CSU;7;2;2402827;5,189872;2869688;6,169317;-16,268702;-0,979445;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;FREIE WÄHLER;8;1;1332710;2,883477;589056;1,269801;126,245043;1,613675;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;FREIE WÄHLER;8;2;1125667;2,431331;463292;0,995995;142,971387;1,435336;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Die PARTEI;9;1;540170;1,168722;245659;0,529556;119,886102;0,639166;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Die PARTEI;9;2;460431;0,994486;454349;0,976769;1,338619;0,017717;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Tierschutzpartei;10;1;160865;0,348051;22917;0,049401;601,946154;0,298649;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Tierschutzpartei;10;2;673669;1,455059;374179;0,804418;80,039233;0,650641;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;HEIMAT (2021: NPD);11;1;1090;0,002358;45169;0,097369;-97,586841;-0,09501;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;HEIMAT (2021: NPD);11;2;64360;0,139011;176020;0,378412;-63,435973;-0,2394;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;PIRATEN;12;1;60548;0,131003;93196;0,200898;-35,031546;-0,069896;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;PIRATEN;12;2;169587;0,366291;173476;0,372942;-2,241809;-0,006651;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;ÖDP;13;1;152542;0,330043;166228;0,35833;-8,23327;-0,028287;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;ÖDP;13;2;112129;0,242188;144809;0,311313;-22,567658;-0,069126;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;V-Partei³;14;1;10644;0,02303;1201;0,002589;786,261449;0,020441;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;V-Partei³;14;2;31763;0,068605;64073;0,137746;-50,426857;-0,069141;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;DiB;15;1;2609;0,005645;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;DiB;15;2;7184;0,015517;60914;0,130954;-88,206324;-0,115437;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;BP;16;1;36748;0,079509;62622;0,134991;-41,317748;-0,055483;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;BP;16;2;32790;0,070823;58037;0,124769;-43,501559;-0,053946;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Tierschutzallianz;17;1;7371;0,015948;6114;0,01318;20,559372;0,002768;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Tierschutzallianz;17;2;13672;0,02953;32221;0,069269;-57,568046;-0,039739;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;MLPD;18;1;22535;0,048757;35760;0,077086;-36,982662;-0,028329;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;MLPD;18;2;17820;0,038489;29785;0,064032;-40,171227;-0,025543;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Verjüngungsforschung (2021: Gesundheitsforschung);19;1;2171;0,004697;1537;0,003313;41,249187;0,001384;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Verjüngungsforschung (2021: Gesundheitsforschung);19;2;48496;0,104747;23404;0,050314;107,212442;0,054432;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;MENSCHLICHE WELT;20;1;652;0,001411;2205;0,004753;-70,430839;-0,003343;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;MENSCHLICHE WELT;20;2;3786;0,008177;11661;0,025069;-67,532802;-0,016892;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;DKP;21;1;5446;0,011783;7517;0,016204;-27,550885;-0,004421;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;DKP;21;2;14957;0,032306;11558;0,024848;29,408202;0,007458;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Die Grauen;22;1;1962;0,004245;4300;0,009269;-54,372093;-0,005024;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Die Grauen;22;2;17304;0,037375;10009;0,021518;72,884404;0,015857;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;BüSo;23;1;811;0,001755;15960;0,034404;-94,918546;-0,03265;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;BüSo;23;2;665;0,001436;6693;0,014389;-90,064246;-0,012952;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Die Humanisten;24;1;12672;0,027417;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Die Humanisten;24;2;47524;0,102647;5991;0,01288;693,256551;0,089768;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Gartenpartei;25;1;2095;0,004533;2570;0,00554;-18,48249;-0,001007;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Gartenpartei;25;2;7611;0,016439;5617;0,012076;35,499377;0,004363;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;du.;26;1;1890;0,004089;772;0,001664;144,818653;0,002425;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;du.;26;2;17738;0,038312;3032;0,006518;485,026385;0,031794;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;SGP;27;1;;;903;0,001947;;-0,001947;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;SGP;27;2;1399;0,003022;1291;0,002775;8,365608;0,000246;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;dieBasis;28;1;732620;1,58511;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;dieBasis;28;2;630153;1,361069;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Bündnis C;29;1;6222;0,013462;1717;0,003701;262,376238;0,009761;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Bündnis C;29;2;39868;0,086111;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;BÜRGERBEWEGUNG;30;1;1556;0,003367;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;BÜRGERBEWEGUNG;30;2;7491;0,01618;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;III. Weg;31;1;515;0,001114;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;III. Weg;31;2;7832;0,016916;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;BÜNDNIS21;32;1;372;0,000805;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;BÜNDNIS21;32;2;3488;0,007534;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;LIEBE;33;1;873;0,001889;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;LIEBE;33;2;12967;0,028007;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Wir Bürger (2021: LKR);34;1;11005;0,023811;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Wir Bürger (2021: LKR);34;2;11328;0,024467;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;PdF;35;1;;;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;PdF;35;2;3228;0,006972;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;LfK;36;1;;;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;LfK;36;2;9189;0,019847;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;SSW;37;1;35027;0,075785;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;SSW;37;2;55578;0,120043;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Team Todenhöfer;38;1;5422;0,011731;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Team Todenhöfer;38;2;211854;0,457584;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;UNABHÄNGIGE;39;1;13421;0,029038;2458;0,005299;446,013019;0,023739;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;UNABHÄNGIGE;39;2;22736;0,049108;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Volt;40;1;77594;0,167884;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Volt;40;2;164300;0,354872;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Volksabstimmung;41;1;1086;0,00235;6316;0,013615;-82,805573;-0,011265;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Volksabstimmung;41;2;;;9631;0,020705;;-0,020705;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;B*;42;1;192;0,000415;672;0,001449;-71,428571;-0,001033;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;B*;42;2;;;911;0,001958;;-0,001958;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;sonstige;43;1;251;0,000543;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;sonstige;43;2;;;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;FAMILIE;44;1;1817;0,003931;506;0,001091;259,090909;0,002841;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;FAMILIE;44;2;;;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Graue Panther;45;1;961;0,002079;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;Graue Panther;45;2;;;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;KlimalisteBW;46;1;3967;0,008583;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;KlimalisteBW;46;2;;;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;THP;47;1;549;0,001188;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Partei;THP;47;2;;;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;Einzelbewerber/Wählergruppe;Einzelbewerber/Wählergruppe;48;1;110874;0,239889;;;;;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;System-Gruppe;Übrige;1000;1;;;107495;0,231722;;-0,231722;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Bund;99;Bundesgebiet;;;System-Gruppe;Übrige;1000;2;;;204580;0,43981;;-0,43981;Ergebnis der Wiederholungswahl in Teilen Berlins am 11.02.2024.
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;System-Gruppe;Wahlberechtigte;-4;;2272717;;2266012;;0,295894;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;System-Gruppe;Wählende;-3;;1776145;78,150733;1729194;76,310011;2,715196;1,840723;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;System-Gruppe;Ungültige;-2;1;16132;0,908259;16172;0,935233;-0,247341;-0,026974;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;System-Gruppe;Ungültige;-2;2;13391;0,753936;13553;0,783776;-1,195307;-0,029839;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;System-Gruppe;Gültige;-1;1;1760013;99,091741;1713022;99,064767;2,743164;0,026974;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;System-Gruppe;Gültige;-1;2;1762754;99,246064;1715641;99,216224;2,746087;0,029839;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;CDU;1;1;465975;26,475657;682287;39,829436;-31,70396;-13,353779;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;CDU;1;2;388399;22,033647;583135;33,989337;-33,394668;-11,95569;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;SPD;2;1;530301;30,130516;493279;28,795836;7,505286;1,33468;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;SPD;2;2;494055;28,02745;399505;23,286049;23,666788;4,741401;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;FDP;3;1;167191;9,499418;131703;7,688343;26,945476;1,811076;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;FDP;3;2;220039;12,482683;216844;12,639241;1,473409;-0,156558;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;GRÜNE;4;1;315633;17,933561;163580;9,549206;92,953295;8,384355;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;GRÜNE;4;2;322763;18,310156;205471;11,97634;57,084455;6,333816;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;AfD;5;1;113641;6,456827;128641;7,509594;-11,660357;-1,052767;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;AfD;5;2;119566;6,782909;140362;8,181315;-14,815976;-1,398406;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;DIE LINKE;6;1;55523;3,154693;90574;5,287381;-38,698744;-2,132688;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;DIE LINKE;6;2;64238;3,644184;124678;7,267138;-48,476876;-3,622954;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;Die PARTEI;7;1;18090;1,027833;4017;0,234498;350,336072;0,793335;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;Die PARTEI;7;2;17870;1,013755;20732;1,208411;-13,804746;-0,194657;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;FREIE WÄHLER;8;1;26518;1,506693;15957;0,931512;66,18412;0,575182;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;FREIE WÄHLER;8;2;17043;0,966839;11095;0,646697;53,609734;0,320142;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;HEIMAT (2021: NPD);9;1;;;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;HEIMAT (2021: NPD);9;2;2034;0,115388;4210;0,245389;-51,686461;-0,130002;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;ÖDP;10;1;;;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;ÖDP;10;2;1539;0,087307;3116;0,181623;-50,609756;-0,094317;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;MLPD;11;1;265;0,015057;1381;0,080618;-80,811007;-0,065561;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;MLPD;11;2;322;0,018267;823;0,04797;-60,874848;-0,029704;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;dieBasis;12;1;27124;1,541125;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;dieBasis;12;2;23407;1,327865;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;DKP;13;1;326;0,018523;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;DKP;13;2;516;0,029272;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;du.;14;1;727;0,041307;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;du.;14;2;1029;0,058375;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;Wir Bürger (2021: LKR);15;1;1051;0,059715;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;Wir Bürger (2021: LKR);15;2;715;0,040562;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;Die Humanisten;16;1;;;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;Die Humanisten;16;2;1763;0,100014;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;Tierschutzpartei;17;1;;;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;Tierschutzpartei;17;2;20653;1,171633;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;SSW;18;1;35027;1,990156;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;SSW;18;2;55578;3,152907;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;Team Todenhöfer;19;1;;;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;Team Todenhöfer;19;2;5305;0,30095;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;Volt;20;1;1431;0,081306;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;Volt;20;2;4157;0,235824;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;V-Partei³;21;1;581;0,033011;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;V-Partei³;21;2;1763;0,100014;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Einzelbewerber/Wählergruppe;Einzelbewerber/Wählergruppe;22;1;609;0,034602;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;FAMILIE;23;1;;;506;0,029538;;-0,029538;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;Partei;FAMILIE;23;2;;;;;;;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;System-Gruppe;Übrige;1000;1;;;1097;0,064039;;-0,064039;
+BT;26.09.2021;Land;01;Schleswig-Holstein;BUND;99;System-Gruppe;Übrige;1000;2;;;5670;0,330489;;-0,330489;
+BT;26.09.2021;Land;10;Saarland;BUND;99;System-Gruppe;Wahlberechtigte;-4;;755223;;777264;;-2,835716;;
+BT;26.09.2021;Land;10;Saarland;BUND;99;System-Gruppe;Wählende;-3;;583963;77,323254;595411;76,603445;-1,922705;0,719809;
+BT;26.09.2021;Land;10;Saarland;BUND;99;System-Gruppe;Ungültige;-2;1;10850;1,857994;10008;1,680856;8,413269;0,177139;
+BT;26.09.2021;Land;10;Saarland;BUND;99;System-Gruppe;Ungültige;-2;2;10295;1,762954;10153;1,705209;1,398601;0,057745;
+BT;26.09.2021;Land;10;Saarland;BUND;99;System-Gruppe;Gültige;-1;1;573113;98,142006;585403;98,319144;-2,099408;-0,177139;
+BT;26.09.2021;Land;10;Saarland;BUND;99;System-Gruppe;Gültige;-1;2;573668;98,237046;585258;98,294791;-1,980323;-0,057745;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;CDU;1;1;159323;27,799579;211855;36,189599;-24,796205;-8,390021;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;CDU;1;2;135134;23,556134;189573;32,391356;-28,716642;-8,835222;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;SPD;2;1;208329;36,350423;184511;31,518629;12,908715;4,831794;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;SPD;2;2;213777;37,264934;158895;27,149565;34,53979;10,115369;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;DIE LINKE;3;1;30211;5,271386;65712;11,225088;-54,02514;-5,953701;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;DIE LINKE;3;2;41130;7,169652;75448;12,891409;-45,485632;-5,721756;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;AfD;4;1;56236;9,812376;54587;9,324687;3,020866;0,487688;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;AfD;4;2;57629;10,045706;58920;10,067355;-2,191107;-0,021649;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;FDP;5;1;46793;8,164707;27627;4,719313;69,374163;3,445394;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;FDP;5;2;65945;11,495325;44477;7,599554;48,267644;3,89577;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;Die PARTEI;6;1;13840;2,414882;3950;0,674749;250,379747;1,740133;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;Die PARTEI;6;2;9978;1,739334;7475;1,277214;33,48495;0,462119;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;FREIE WÄHLER;7;1;14936;2,606118;6959;1,188754;114,628539;1,417364;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;FREIE WÄHLER;7;2;11746;2,047526;4825;0,824423;143,440415;1,223103;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;HEIMAT (2021: NPD);8;1;;;947;0,161769;;-0,161769;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;HEIMAT (2021: NPD);8;2;1375;0,239686;3106;0,530706;-55,730844;-0,29102;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;PIRATEN;9;1;;;2325;0,397162;;-0,397162;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;PIRATEN;9;2;3419;0,595989;2937;0,50183;16,411304;0,094159;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;MLPD;10;1;201;0,035072;572;0,09771;-64,86014;-0,062639;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;MLPD;10;2;357;0,062231;427;0,072959;-16,393443;-0,010728;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;dieBasis;11;1;8982;1,56723;;;;;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;dieBasis;11;2;8116;1,414756;;;;;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;ÖDP;12;1;2872;0,501123;;;;;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;ÖDP;12;2;2531;0,441196;;;;;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;Tierschutzpartei;13;1;;;;;;;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;Tierschutzpartei;13;2;16231;2,829337;;;;;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;Team Todenhöfer;14;1;;;;;;;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;Team Todenhöfer;14;2;2281;0,397617;;;;;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;Volt;15;1;;;;;;;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;Volt;15;2;4019;0,700579;;;;;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;GRÜNE;16;1;31091;5,424934;26116;4,4612;19,049625;0,963733;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;GRÜNE;16;2;;;35117;6,00026;;-6,00026;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Einzelbewerber/Wählergruppe;Einzelbewerber/Wählergruppe;17;1;299;0,052171;;;;;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;V-Partei³;18;1;;;;;;;
+BT;26.09.2021;Land;10;Saarland;BUND;99;Partei;V-Partei³;18;2;;;1614;0,275776;;-0,275776;
+BT;26.09.2021;Land;10;Saarland;BUND;99;System-Gruppe;Übrige;1000;1;;;242;0,041339;;-0,041339;
+BT;26.09.2021;Land;10;Saarland;BUND;99;System-Gruppe;Übrige;1000;2;;;2444;0,417594;;-0,417594;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;System-Gruppe;Wahlberechtigte;-4;;231536;;228471;;1,341527;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;System-Gruppe;Wählende;-3;;180112;77,790063;171914;75,245436;4,768663;2,544627;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;System-Gruppe;Ungültige;-2;1;1537;0,853358;1596;0,928371;-3,696742;-0,075013;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;System-Gruppe;Ungültige;-2;2;1487;0,825597;1449;0,842863;2,622498;-0,017266;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;System-Gruppe;Gültige;-1;1;178575;99,146642;170318;99,071629;4,84799;0,075013;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;System-Gruppe;Gültige;-1;2;178625;99,174403;170465;99,157137;4,786906;0,017266;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;CDU;1;1;41721;23,363293;68120;39,995773;-38,75367;-16,63248;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;CDU;1;2;36421;20,389643;58320;34,212302;-37,549726;-13,822659;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;SPD;2;1;38927;21,798684;47711;28,012894;-18,410849;-6,21421;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;SPD;2;2;45508;25,476837;40388;23,69284;12,677033;1,783997;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;FDP;3;1;12299;6,887302;11147;6,544816;10,334619;0,342486;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;FDP;3;2;19189;10,742617;18955;11,119585;1,234503;-0,376967;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;GRÜNE;4;1;50231;28,128797;17911;10,516211;180,44777;17,612587;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;GRÜNE;4;2;33300;18,642407;22304;13,084211;49,300574;5,558196;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;AfD;5;1;9768;5,469971;10583;6,213671;-7,70103;-0,7437;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;AfD;5;2;10317;5,775787;11653;6,836007;-11,464859;-1,06022;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;DIE LINKE;6;1;6544;3,664567;12144;7,130192;-46,113307;-3,465625;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;DIE LINKE;6;2;7475;4,184745;14002;8,214003;-46,614769;-4,029258;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;Die PARTEI;7;1;;;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;Die PARTEI;7;2;1844;1,03233;2100;1,231924;-12,190476;-0,199594;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;FREIE WÄHLER;8;1;2324;1,301414;1947;1,143156;19,363123;0,158258;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;FREIE WÄHLER;8;2;1715;0,960112;1195;0,701024;43,514644;0,259088;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;HEIMAT (2021: NPD);9;1;;;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;HEIMAT (2021: NPD);9;2;138;0,077257;349;0,204734;-60,458453;-0,127477;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;ÖDP;10;1;;;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;ÖDP;10;2;132;0,073898;297;0,174229;-55,555556;-0,100331;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;MLPD;11;1;;;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;MLPD;11;2;12;0,006718;59;0,034611;-79,661017;-0,027893;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;dieBasis;12;1;3357;1,879882;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;dieBasis;12;2;2866;1,604479;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;DKP;13;1;;;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;DKP;13;2;40;0,022393;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;du.;14;1;227;0,127117;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;du.;14;2;118;0,06606;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;Wir Bürger (2021: LKR);15;1;157;0,087918;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;Wir Bürger (2021: LKR);15;2;73;0,040868;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;Die Humanisten;16;1;;;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;Die Humanisten;16;2;157;0,087894;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;Tierschutzpartei;17;1;;;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;Tierschutzpartei;17;2;1990;1,114066;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;SSW;18;1;13020;7,291054;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;SSW;18;2;16415;9,189643;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;Team Todenhöfer;19;1;;;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;Team Todenhöfer;19;2;318;0,178027;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;Volt;20;1;;;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;Volt;20;2;403;0,225612;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;V-Partei³;21;1;;;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;Partei;V-Partei³;21;2;194;0,108607;;;;;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;System-Gruppe;Übrige;1000;1;;;755;0,443288;;-0,443288;
+BT;26.09.2021;Wahlkreis;001;Flensburg – Schleswig;LAND;01;System-Gruppe;Übrige;1000;2;;;843;0,49453;;-0,49453;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;System-Gruppe;Wahlberechtigte;-4;;188267;;186568;;0,91066;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;System-Gruppe;Wählende;-3;;145387;77,223836;139194;74,60765;4,449186;2,616187;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;System-Gruppe;Ungültige;-2;1;1337;0,919615;1297;0,931793;3,08404;-0,012178;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;System-Gruppe;Ungültige;-2;2;1242;0,854272;1123;0,806788;10,596616;0,047484;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;System-Gruppe;Gültige;-1;1;144050;99,080385;137897;99,068207;4,462026;0,012178;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;System-Gruppe;Gültige;-1;2;144145;99,145728;138071;99,193212;4,399186;-0,047484;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;CDU;1;1;43745;30,367928;62256;45,14674;-29,73368;-14,778812;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;CDU;1;2;35511;24,63561;52928;38,333901;-32,906968;-13,698291;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;SPD;2;1;40026;27,786185;34685;25,152831;15,398587;2,633354;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;SPD;2;2;37926;26,311006;31120;22,539128;21,87018;3,771878;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;FDP;3;1;13958;9,689691;11105;8,053112;25,69113;1,636579;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;FDP;3;2;18350;12,730237;18050;13,072984;1,66205;-0,342747;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;GRÜNE;4;1;20611;14,308226;13026;9,446181;58,229694;4,862045;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;GRÜNE;4;2;22588;15,670332;15144;10,96827;49,154781;4,702062;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;AfD;5;1;8274;5,743839;8117;5,886277;1,934212;-0,142438;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;AfD;5;2;8798;6,103576;9030;6,540113;-2,569214;-0,436537;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;DIE LINKE;6;1;4060;2,818466;7102;5,150221;-42,833005;-2,331755;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;DIE LINKE;6;2;4437;3,07815;8589;6,220713;-48,340901;-3,142562;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;Die PARTEI;7;1;;;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;Die PARTEI;7;2;1322;0,917132;1376;0,996589;-3,924419;-0,079457;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;FREIE WÄHLER;8;1;1510;1,048247;1606;1,164637;-5,977584;-0,11639;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;FREIE WÄHLER;8;2;1081;0,749939;867;0,627938;24,682814;0,122001;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;HEIMAT (2021: NPD);9;1;;;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;HEIMAT (2021: NPD);9;2;146;0,101287;301;0,218004;-51,495017;-0,116717;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;ÖDP;10;1;;;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;ÖDP;10;2;121;0,083943;173;0,125298;-30,057803;-0,041355;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;MLPD;11;1;;;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;MLPD;11;2;26;0,018037;63;0,045629;-58,730159;-0,027591;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;dieBasis;12;1;2254;1,564734;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;dieBasis;12;2;1836;1,273717;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;DKP;13;1;;;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;DKP;13;2;33;0,022894;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;du.;14;1;;;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;du.;14;2;59;0,040931;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;Wir Bürger (2021: LKR);15;1;202;0,140229;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;Wir Bürger (2021: LKR);15;2;60;0,041625;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;Die Humanisten;16;1;;;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;Die Humanisten;16;2;130;0,090187;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;Tierschutzpartei;17;1;;;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;Tierschutzpartei;17;2;1604;1,112768;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;SSW;18;1;9410;6,532454;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;SSW;18;2;9516;6,601686;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;Team Todenhöfer;19;1;;;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;Team Todenhöfer;19;2;239;0,165805;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;Volt;20;1;;;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;Volt;20;2;237;0,164418;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;V-Partei³;21;1;;;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;Partei;V-Partei³;21;2;125;0,086718;;;;;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;System-Gruppe;Übrige;1000;1;;;0;0;;0;
+BT;26.09.2021;Wahlkreis;002;Nordfriesland – Dithmarschen Nord;LAND;01;System-Gruppe;Übrige;1000;2;;;430;0,311434;;-0,311434;
